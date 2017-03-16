@@ -1,1 +1,1 @@
-# shinhan_android_2017
+# 모바일 아카데미
